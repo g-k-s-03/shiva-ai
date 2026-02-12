@@ -20,7 +20,8 @@ shiva-ai/
 ├── core/      # AI brain: LLM logic, routing, memory (to be added)
 ├── voice/     # Speech-to-text and text-to-speech modules
 ├── tools/     # System and utility tools (apps, OS actions, APIs)
-├── main.py    # Entry point for starting the assistant
+├── main.py    # Entry point for starting the agit remote -v
+ssistant
 ├── README.md  # Project overview and documentation
 └── .gitignore # Git ignore rules
 
