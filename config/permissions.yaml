@@ -1,4 +1,4 @@
-# permissions.yaml
+#permissions.yaml
 # Basic permissions configuration (no enforcement logic yet)
 
 mode: dry-run
