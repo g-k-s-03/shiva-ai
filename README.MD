@@ -1,4 +1,4 @@
-# SHIVA AI 🤖
+# SHIVA AI 🤖(Smart Hybrid Intelligent Virtual Assistant)
 
 A lightweight Jarvis-like AI assistant with voice interaction, offline + online LLM support.
 

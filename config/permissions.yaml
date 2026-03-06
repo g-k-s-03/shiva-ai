@@ -1,0 +1,15 @@
+#permissions.yaml  
+# Basic permissions  configuration (no enforcement logic yet)
+
+mode: dry-run
+
+permissions:
+  file_system:
+    read: allow
+    write: deny
+
+  process:
+    run: deny
+
+  network:
+    access: deny
